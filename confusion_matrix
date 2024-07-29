@@ -1,0 +1,1 @@
+{"schema_type": "confusion_matrix", "schema_version": "1.0.0", "data": {"class_labels": ["Left", "Stayed"], "matrix": [[16640, 5930], [5730, 19378]]}}
